@@ -17,7 +17,6 @@ In a typical hackathon, participants are expected to complete coding by the end 
 - After this initial event, give participants a few more days or even up to a week to refine, edit, and finalize their submissions before the final deadline.
 
 
-
 ## Platform Selection
 Choosing the right platform is essential for facilitating both the in-person and virtual components of your hackathon.
 
@@ -34,6 +33,12 @@ Choosing the right platform is essential for facilitating both the in-person and
 - **Dedicated Channels**: Consider setting up dedicated channels or hashtags on social media to streamline communication and keep participants engaged.
 
 
+## Promotion and Outreach
+
+With your dates set and platform selected, the next step is to attract participants and build excitement around your event.
+
+- [Learn How to Promote Your Hackathon](promotion.md)
+ 
 
 ## About Mentors and Judges
 
