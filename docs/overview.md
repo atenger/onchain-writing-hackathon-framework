@@ -23,3 +23,8 @@ Unlike traditional hackathons that focus on coding or technology development, a 
 - “The most powerful person in the world is the storyteller. The storyteller sets the vision, values, and agenda of an entire generation that is to come.”  - Steve Jobs
 
 ![Writers Are Builders](../assets/images/writersarebuilders.webp)
+
+
+## Next Steps
+
+Ready to start planning your own hackathon? [Click here to get started](planning.md).
