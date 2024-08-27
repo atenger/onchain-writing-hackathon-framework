@@ -1,6 +1,6 @@
-# What is a Writing Hackathon?
+# What is a Onchain Writing Hackathon?
 
-A writing hackathon is an event where participants are challenged to create written content within a set timeframe, often focusing on a specific theme or prompt. Unlike traditional hackathons that focus on coding or technology development, writing hackathons emphasize creativity, storytelling, and collaboration.
+An onchain writing hackathon is an event where participants are challenged to create written content within a set timeframe, often focusing on a specific theme or prompt, with results published onchain. Unlike traditional hackathons that focus on coding or technology development, writing hackathons emphasize creativity, storytelling, and collaboration.
 
 ## Purpose of a Writing Hackathon
 - **Encourage Creativity**: Provide a structured environment that motivates participants to explore their creativity.
@@ -10,4 +10,4 @@ A writing hackathon is an event where participants are challenged to create writ
 ## Structure of a Writing Hackathon
 - **Theme or Prompt**: A central theme or series of prompts guide the content creation.
 - **Timeframe**: Participants are given a specific amount of time (e.g., 24 hours, a week) to create their submissions.
-- **Submissions**: At the end of the event, participants submit their work
+- **Submissions**: At the end of the event, participants publish their submissions onchain.
