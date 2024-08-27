@@ -22,7 +22,7 @@ Unlike traditional hackathons that focus on coding or technology development, a 
 - "writers and editors are builders of ideas, knowledge, truth, community" -  [Colin Armstrong](https://warpcast.com/colin), founder of Paragraph
 - “The most powerful person in the world is the storyteller. The storyteller sets the vision, values, and agenda of an entire generation that is to come.”  - Steve Jobs
 
-![Writers Are Builders](../assets/images/writersarebuilders.webp)
+![Writers Are Builders](images/writersarebuilders.webp)
 
 
 ## Ready to Get Started?
