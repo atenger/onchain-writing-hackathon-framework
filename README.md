@@ -1,4 +1,4 @@
-# writing-hackathon-framework
+# Writing Hackathon Framework
 An open-source framework for organizing and running writing hackathons.
 
 ## License
