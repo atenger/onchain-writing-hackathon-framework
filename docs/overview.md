@@ -25,6 +25,11 @@ Unlike traditional hackathons that focus on coding or technology development, a 
 ![Writers Are Builders](../assets/images/writersarebuilders.webp)
 
 
-## Next Steps
+## Ready to Get Started?
 
-Ready to start planning your own hackathon? [Click here to get started](planning.md).
+Once you have a solid understanding of what a writing hackathon is, the next step is to plan and promote your event. 
+
+- [Start Planning Your Hackathon](planning.md)
+- [Learn How to Promote and Engage Participants](promotion.md)
+
+
